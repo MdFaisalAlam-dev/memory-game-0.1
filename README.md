@@ -8,3 +8,5 @@ This is a simple memory game where players must match pairs of cards by flipping
 - Randomized card layout for replayability
 - Timer tracking
 - Different difficulty Grid levels
+## Live Demo
+Check out the live version of the project here: [Netlify Live Link](https://memory-game-075.netlify.app)
