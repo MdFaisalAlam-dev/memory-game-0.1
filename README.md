@@ -10,3 +10,6 @@ This is a simple memory game where players must match pairs of cards by flipping
 - Different difficulty Grid levels
 ## Live Demo
 Check out the live version of the project here: [Netlify Live Link](https://memory-game-075.netlify.app)
+
+<img width="1920" height="988" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/1c668cc6-94de-4540-b267-42f16e66d6c7" />
+
